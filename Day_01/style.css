@@ -1,4 +1,12 @@
-.one{
+.one {
     background-color: #FFF4A3;
+}
+
+#one {
+    background-color: blue;
+}
+
+table{
+    width:60%;
 }
 
